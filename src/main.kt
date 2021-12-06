@@ -1,4 +1,7 @@
 fun main() {
+    a()
+    b()
+    n()
     val x = X()
     a(x)
     b(x)
