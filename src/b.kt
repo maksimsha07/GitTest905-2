@@ -1,3 +1,3 @@
-fun b() {
+fun b(){
     println("Beeeeeeeeeeeeeeeeee")
 }
