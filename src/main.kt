@@ -1,7 +1,6 @@
 fun main() {
     val x = X()
     a(x)
-    b(x)
     println(x)
     println("Изменения перед fork-ом")
     //Изменения, сделанные после fork
